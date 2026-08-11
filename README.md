@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 I’m a B.Tech 1st-year student passionate about technology and problem-solving.<br>💻 Currently learning programming, web development, and data structures step by step.<br>🌱 Exploring new concepts in C, Java, HTML, CSS, and Python to build a strong foundation.<br>🔍 Interested in open-source projects and collaborative learning.<br>🚀 My goal is to grow as a developer and contribute to meaningful projects<br>
 
 
